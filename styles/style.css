@@ -2,27 +2,83 @@
     margin: 0;
     font-family: sans-serif;
 } 
-.menu{
-    margin-top:20px;
-    margin-left:60px;
-    height:25px;
-    padding: 20px;
-    font-size:30px; 
+.top{
+    margin-left:850px;
+    margin-right:60px;
+    font-size:20px; 
+
     list-style: none;
     text-decoration:none;
 }
-.topnav{
-    margin-top:-10px;
-    margin-left:800px;
-    margin-right:80px;
-    gap:15px;
-    font-size:20px; 
+.menu{
+    margin-top:15px;
+    margin-left:60px;
+    height:45px;
+    font-size:15px; 
     list-style: none;
     text-decoration:none;
 }
 .main{
     text-align: center;
-    left:400px;
-
-    font-size:40px;
+    left:180px;
+    font-size:30px;
+}
+.group{
+    text-align: center;
+    left:170px;
+    font-size: 40px;
+}
+.paragraph{
+    text-align:center;
+    font-size: 15px;
+    margin-left:200px;
+    margin-right: 200px;
+}
+.explare{
+    text-align:center;
+    width:120px;
+    height: 38px;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left: 600px;
+    margin-right:400px;
+    color:white;
+    background-color:#FF900E;
+}
+.img1{
+    width:1040px;
+    height: 620px;
+    margin-right:120px;
+    margin-left:140px;
+    margin-top:25px;
+    margin-bottom:10px;
+}
+.project{
+    display: flexs;
+    margin-left: 140px;
+    float: left;
+}
+.work{
+    margin-bottom:70px;
+    margin-left: 880px;
+    margin-bottom: 80px;
+    width: 180px;
+    height:10px;
+    font-size:1.5em;
+}
+.passeages{
+    margin-left: 880px;
+    margin-bottom:80px;
+    width: 340px;
+    height:20px;
+    font-size:15px;
+}
+.explare-more{
+    text-align:center;
+    width:120px;
+    height:38px;
+    margin-top:20px;
+    margin-bottom:20px;
+    color:white;
+    background-color:#FF900E;
 }
