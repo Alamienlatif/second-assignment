@@ -58,6 +58,7 @@
     display: flexs;
     margin-left: 140px;
     float: left;
+    margin-bottom:100px;
 }
 .work{
     margin-left: 880px;
@@ -71,7 +72,6 @@
     margin-bottom:380px;
     width: 340px;
     height:20px;
-    margin-bottom:0px;
     margin-top:80px;
     font-size:15px;
 }
@@ -84,4 +84,24 @@
     margin-bottom:0px;
     color:white;
     background-color:#FF900E;
+}
+.presentation{
+    margin-left: 110px;
+    width: 320px;
+    height:25px;
+    font-size:24px;
+}
+.texts{
+    margin-left:90px;
+    margin-top:140px;
+    width: 320px;
+    height:20px;
+    font-size:10px;
+}
+.rekha{
+    margin-left: 93px;
+    width:5px;
+    height:80px;
+    margin-top:-115px;
+    background-color: #FF900E;
 }
