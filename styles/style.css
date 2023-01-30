@@ -34,8 +34,10 @@
     margin-left:200px;
     margin-right: 200px;
 }
+/* code ki veshi hlo?*/
 .explare{
     text-align:center;
+    border: 2px solid #FF900E;
     width:120px;
     height: 38px;
     border-radius:8px;
@@ -75,12 +77,16 @@
     margin-top:80px;
     font-size:15px;
 }
+
+/* code ki veshi hlo?*/
+
 .explare-more{
+    border: 2px solid #FF900E;
     text-align:center;
-    width:120px;
+    width:115px;
     height:38px;
     border-radius:8px;
-    margin-top:20px;
+    margin-top:25px;
     margin-bottom:0px;
     color:white;
     background-color:#FF900E;
@@ -98,10 +104,41 @@
     height:20px;
     font-size:10px;
 }
-.rekha{
+.marjin{
     margin-left: 93px;
     width:5px;
     height:80px;
     margin-top:-115px;
     background-color: #FF900E;
 }
+.cards{
+    margin-top:0px;
+    display:flex;
+}
+.card{
+    margin-left: 80px;
+    margin-top: 140px;
+    margin-bottom: 20px;
+    width:800px;
+    height: 20px;
+    font-size: 15px;
+}
+.font{
+    margin-top: 90px;
+    margin-left:80px;
+    width:620px;
+    height:20px;
+    font-size:5px;
+}
+
+
+/* {
+    margin-top: 90px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    grid-gap:20px;
+}
+.card{
+    display: grid;
+    grid-template-rows: max-content 200px 1fr;
+} */
