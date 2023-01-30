@@ -38,6 +38,7 @@
     text-align:center;
     width:120px;
     height: 38px;
+    border-radius:8px;
     margin-top:20px;
     margin-bottom:20px;
     margin-left: 600px;
@@ -59,26 +60,28 @@
     float: left;
 }
 .work{
-    margin-bottom:70px;
     margin-left: 880px;
-    margin-bottom: 80px;
-    width: 180px;
-    height:10px;
-    font-size:1.5em;
+    margin-top:240px;
+    width:240px;
+    height:15px;
+    font-size:30px;
 }
 .passeages{
     margin-left: 880px;
-    margin-bottom:80px;
+    margin-bottom:380px;
     width: 340px;
     height:20px;
+    margin-bottom:0px;
+    margin-top:80px;
     font-size:15px;
 }
 .explare-more{
     text-align:center;
     width:120px;
     height:38px;
+    border-radius:8px;
     margin-top:20px;
-    margin-bottom:20px;
+    margin-bottom:0px;
     color:white;
     background-color:#FF900E;
 }
