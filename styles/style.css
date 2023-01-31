@@ -158,18 +158,8 @@ section 3 star
     border: 2px solid #FF900E;
     background-color: #FF900E;
 }
-/* --------
-section 3 ends
--------- */
+/* -------- section 3 ends -------- */   
 
-/* ---------
-cards star
---------- */
-/* .cards{
-    display: grid;
-    grid-template-rows:repeat(4, 100px) ;
-    justify-content: space-around;
-} */
 /* ------------
 card start
 ---------- */
@@ -194,11 +184,12 @@ card start
     font-size:10px;
 }
 
-/* -------
-cards ends
---------- */
+/* -------cards ends --------- */
+
+/* ---------
+Img, button start
+---------- */
 .image{
-    /* display: flex; */
     margin-left:730px;
     margin-right:200px;
     margin-top:-260px;
@@ -215,7 +206,21 @@ cards ends
     text-align: center;
     font-size: 35px;
 }
-
+/* --------- Img, button start ---------- */
+/* ------------
+some-facts start
+---------------- */
+.some-facts{
+    margin-top:60px;
+    margin-left:100px;
+    width:120px;
+    height: 30px;
+}
+#text{
+    width:320px;
+    height:8px;
+    font-size: 10px;
+}
 
 
 
