@@ -8,7 +8,7 @@ navbar start
 .navbar ul{
     list-style: none;
     padding:0;
-    margin-left:800px;
+    margin-left:620px;
 }
 .navbar li{
     display: inline-block;
@@ -71,7 +71,7 @@ section 1 start
     border-radius:8px;
     margin-top:20px;
     margin-bottom:20px;
-    margin-left: 600px;
+    margin-left: 480px;
     margin-right:400px;
     color:white;
     background-color:#FF900E;
@@ -198,7 +198,6 @@ Img, button start
     margin-left: 650px;
     margin-top:-80px;
     width:260px;
-    margin-bottom:-0px;
     height: 140px;
     color:white;
     border-radius:8px;
@@ -211,16 +210,24 @@ Img, button start
 /* ------------
 some-facts start
 ---------------- */
+
+/* -----id close ------ */
 .some-facts{
     margin-top:60px;
     margin-left:100px;
     width:120px;
     height: 30px;
+    font-weight: bold;
 }
 #text{
     width:320px;
     height:8px;
-    font-size: 10px;
+    font-size:8px;
+    
+}
+/* -----id ends------- */
+.icons{
+    margin
 }
 
 
