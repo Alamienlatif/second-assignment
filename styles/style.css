@@ -198,7 +198,8 @@ Img, button start
     margin-left: 650px;
     margin-top:-80px;
     width:260px;
-    height: 170px;
+    margin-bottom:-0px;
+    height: 140px;
     color:white;
     border-radius:8px;
     border: 2px solid #FF900E;
