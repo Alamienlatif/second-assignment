@@ -277,14 +277,64 @@ icon start
     border:1px solid #FF900E;
     border-radius: 3px;
 }
-/* 
-    margin-top: 90px;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-    grid-gap:20px;
+.sponspors{
+    margin-left:420px;
+    margin-top: 100px;
+    width:180px;
+    height: 10px;
 }
-.card{
-    display: grid;
-    grid-template-rows:200px auto 100px
-   {  max-content 200px 1fr;*/
+#sponspors-text{
+    margin-left: 320px;
+    margin-top:30px;
+    width:320px;
+    height:15px;
+    font-size: 10px;
+    text-align: center;
+}
+.logo{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap:3px;
+    margin-top:40px; 
+     margin-left:25px;
+}
+.logo1{
+    width: 3px;
+    height: 3px;
+    margin-left: 80px;
+    margin-top:30px;
 } 
+.logo2{
+    width: 3px;
+    height: 3px;
+    margin-left: 140px;
+    margin-top:30px;
+}
+.logo3{
+    width: 3px;
+    height: 3px;
+    margin-left:170px;
+    margin-top:30px;
+}
+.logo4{
+    width: 3px;
+    height: 3px;
+    margin-left: 170px;
+    margin-top:30px;
+}
+.logo5{
+    width: 3px;
+    height: 3px;
+    margin-left:170px;
+    margin-top:30px;
+}
+.ends{
+    width: 700px;
+    height: 40px;
+    border:1px solid #FF900E;
+    border-radius:8px;
+    font-size:10px;
+    top:40px;
+    bottom:20px;
+    margin-left:160px;
+}
